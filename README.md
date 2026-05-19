@@ -30,4 +30,4 @@ This project is built to practice JavaScript logic, DOM manipulation, and event 
 ## 📫 Author
 
 - GitHub: https://github.com/Nawazshahid007
-- LinkedIn: https://www.linkedin.com/in/shahid-nawaz-b7664b3a4
+- LinkedIn: www.linkedin.com/in/nawaz-shahid
